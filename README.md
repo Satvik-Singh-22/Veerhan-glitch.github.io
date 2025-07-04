@@ -13,4 +13,4 @@ REGARDS
 TEAM PANCHA-THON
 
 Team members : 
-Rishabh kumar
+Satvik Singh
